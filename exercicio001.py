@@ -1,2 +1,3 @@
 arroz = str("olá, mundo!")
-print(arroz)
+macarrao = str("mostarda")
+print(arroz, macarrao)
