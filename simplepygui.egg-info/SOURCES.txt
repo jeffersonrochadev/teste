@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+simplepygui/__init__.py
+simplepygui.egg-info/PKG-INFO
+simplepygui.egg-info/SOURCES.txt
+simplepygui.egg-info/dependency_links.txt
+simplepygui.egg-info/top_level.txt

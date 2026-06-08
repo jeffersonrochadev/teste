@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: simplepygui
+Version: 0.1.0
+Summary: Minimal floatbox GUI library for simple Python apps.
+License-Expression: MIT
+Keywords: gui,floatbox,tkinter,simple
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# simplepygui
+
+Biblioteca simples para criar interfaces em estilo floatbox utilizando tkinter.
+
+Use `FloatBox` para posicionar botões e labels com coordenadas absolutas.
